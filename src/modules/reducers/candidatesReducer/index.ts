@@ -1,0 +1,1 @@
+export {candidatesReducer} from './candidatesSlice';

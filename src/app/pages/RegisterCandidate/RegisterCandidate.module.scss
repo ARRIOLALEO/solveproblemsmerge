@@ -1,0 +1,29 @@
+.wrapper{
+    width: 90%;
+    margin:  2rem auto;
+}
+.formWrapper{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    div{
+       display: grid;
+       grid-template-columns: 2fr 6fr 1fr;
+       div{
+        display: grid;
+        grid-template-columns: 1fr;
+       }
+       input{
+        min-width: 100%;
+       }
+    }
+    .btnGrid{
+        display: grid;
+        grid-template-columns: 1fr;
+
+        button{
+            max-width: 50%;
+            margin-left: 39%;
+        }
+    }
+}
+

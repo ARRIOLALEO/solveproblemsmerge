@@ -1,0 +1,1 @@
+export {jobsReducer} from './jobsSlice';

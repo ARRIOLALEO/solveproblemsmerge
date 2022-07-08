@@ -1,0 +1,89 @@
+{
+    "language": {
+        "spanish": "Spanish",
+        "english": "English"
+    },
+    "header": {
+        "title": "SQA",
+        "agencies": "Agencies",
+        "jobs": "Jobs",
+        "candidates": "Candidates",
+        "dropdown": {
+            "logout": "Logout"
+        }
+    },
+    "login": {
+        "title": "Log in",
+        "information": "Use your email and password to log in as a Candidate, Recruiter or Admin.",
+        "email": "Email",
+        "emailPlaceholder": "Email",
+        "password": "Password",
+        "passwordPlaceholder": "Enter a password",
+        "loginText": "Log in"
+    },
+    "recruiters": {
+        "title": "Add new recruiter",
+        "name": "Name",
+        "namePlaceholder": "Enter name",
+        "surname": "Surname",
+        "surnamePlaceholder": "Enter surname",
+        "email": "Email",
+        "emailPlaceholder": "Email",
+        "password": "Password",
+        "passwordPlaceholder": "Enter a password",
+        "confirmPassword": "Confirm Password",
+        "confirmPasswordPlaceholder": "Retype password",
+        "city": "City",
+        "cityPlaceholder": "Enter city",
+        "agency": "Agency",
+        "agencyPlaceholder": "Enter agency",
+        "country": "Country",
+        "countryPlaceholder": "Enter country",
+        "createRecruiter": "+ Create recruiter",
+        "errors" : {
+            "emailRequired": "Please enter an email",
+            "passwordRequired": "Please enter a password",
+            "confirmPasswordRequired": "Please confirm your password",
+            "cityRequired": "Please enter a city",
+            "countryRequired": "Please enter a country",
+            "agencyRequired": "Please enter an agency",
+            "alphabetLettersOnly": "Field does not accept numbers"
+        }
+    },
+    "jobs": {
+        "title": "Create a new job",
+        "createJobText": "Create job",
+        "locations": {
+            "title": "Job location",
+            "str": "Location STR",
+            "strPlaceholder": "Location STR",
+            "country": "Country",
+            "countryPlaceholder": "Country",
+            "countryCode": "Country code",
+            "countryCodePlaceholder": "Country code",
+            "region": "Region",
+            "regionPlaceholder": "Region",
+            "regionCode": "Region code",
+            "regionCodePlaceholder": "Region code",
+            "city": "City",
+            "cityPlaceholder": "City",
+            "zipCode": "Zip code",
+            "zipCodePlaceholder": "Zip code"
+        },
+        "descriptions": {
+            "title": "Job Description",
+            "titleForm": "Title",
+            "titleFormPlaceolder": "Job title",
+            "fullTitle": "Full title",
+            "fullTitlePlaceholder": "Job full title",
+            "shortcode": "Shortcode",
+            "shortcodePlaceolder": "Shortcode",
+            "code": "Code",
+            "codePlaceholder": "Code",
+            "state": "State",
+            "statePlaceholder": "State",
+            "department": "Department",
+            "departmentPlaceholder": "Department"
+        }
+    }
+}

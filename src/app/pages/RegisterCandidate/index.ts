@@ -1,0 +1,1 @@
+export {RegisterCandidate} from './RegisterCandidate';

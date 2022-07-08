@@ -1,0 +1,1 @@
+export {tableColumns} from './tableColumns';

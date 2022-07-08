@@ -1,0 +1,14 @@
+.headerContainer {
+  display: flex;
+
+  .menu {
+    width: 20rem;
+  }
+  
+  .logo {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-right: auto !important;
+  }
+}

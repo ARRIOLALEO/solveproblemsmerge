@@ -1,0 +1,89 @@
+{
+    "language": {
+        "spanish": "Español",
+        "english": "Inglés"
+    },
+    "header": {
+        "title": "SQA",
+        "agencies": "Agencias",
+        "jobs": "Trabajos",
+        "candidates": "Candidatos",
+        "dropdown": {
+            "logout": "Cerrar sesión"
+        }
+    },
+    "login": {
+        "title": "Iniciar sesión",
+        "information": "Usa tu email y contraseña para iniciar sesión como Candidato, Reclutador o Administrador.",
+        "email": "Email",
+        "emailPlaceholder": "Introduzca el email",
+        "password": "Contraseña",
+        "passwordPlaceholder": "Introduzca una contraseña",
+        "loginText": "Iniciar sesión"
+    },
+    "recruiters": {
+        "title": "Añadir nuevo reclutador",
+        "name": "Nombre",
+        "namePlaceholder": "Introduzca el nombre",
+        "surname": "Apellidos",
+        "surnamePlaceholder": "Introduzca los apellidos",
+        "email": "Email",
+        "emailPlaceholder": "Introduzca el email",
+        "password": "Contraseña",
+        "passwordPlaceholder": "Introduzca una contraseña",
+        "confirmPassword": "Confirmar contraseña",
+        "confirmPasswordPlaceholder": "Reintroduzca la contraseña",
+        "city": "Ciudad",
+        "cityPlaceholder": "Introduzca la ciudad",
+        "agency": "Agencia",
+        "agencyPlaceholder": "Introduzca la agencia",
+        "country": "País",
+        "countryPlaceholder": "Introduzca el país",
+        "createRecruiter": "+ Crear reclutador",
+        "errors" : {
+            "emailRequired": "Por favor, introduzca un email",
+            "passwordRequired": "Por favor, introduzca una contraseña",
+            "confirmPasswordRequired": "Por favor, confirma tu contraseña",
+            "cityRequired": "Por favor, introduzca una ciudad",
+            "countryRequired": "Por favor, introduzca un país",
+            "agencyRequired": "Por favor, introduzca una agencia",
+            "alphabetLettersOnly": "El campo no acepta números"
+        }
+    },
+    "jobs": {
+        "title": "Crear un nuevo trabajo",
+        "createJobText": "Crear trabajo",
+        "locations": {
+            "title": "Ubicación del trabajo",
+            "str": "Dirección",
+            "strPlaceholder": "Dirección",
+            "country": "País",
+            "countryPlaceholder": "Páis",
+            "countryCode": "Código del país",
+            "countryCodePlaceholder": "Código del país",
+            "region": "Región",
+            "regionPlaceholder": "Región",
+            "regionCode": "Código de región",
+            "regionCodePlaceholder": "Código de región",
+            "city": "Ciudad",
+            "cityPlaceholder": "Ciudad",
+            "zipCode": "Código postal",
+            "zipCodePlaceholder": "Código postal"
+        },
+        "descriptions": {
+            "title": "Descripción del trabajo",
+            "titleForm": "Nombre",
+            "titleFormPlaceolder": "Nombre del trabajo",
+            "fullTitle": "Nombre completo",
+            "fullTitlePlaceholder": "Nombre completo del trabajo",
+            "shortcode": "Código corto",
+            "shortcodePlaceolder": "Código corto",
+            "code": "Código",
+            "codePlaceholder": "Código",
+            "state": "Estado",
+            "statePlaceholder": "Estado",
+            "department": "Departamento",
+            "departmentPlaceholder": "Departamento"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+.displayContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 25vw;
+    max-height: 75vh;
+    padding: 0px 10px 10px 10px;
+
+    .contentContainer {
+        display: flex;
+        flex-direction: column;
+        overflow-y: scroll;
+    }
+
+    .closeBtn {
+        align-self: flex-end;
+        margin-right: 25px;
+    }
+
+    .titleContainer {
+        align-self: center;
+    }
+
+    .btnContainer {
+        max-width: 100px;
+        align-self: center;
+    }
+
+}

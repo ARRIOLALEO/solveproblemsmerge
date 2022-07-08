@@ -1,0 +1,1 @@
+export {useGetMenuItems} from './useGetMenuItems';

@@ -1,0 +1,12 @@
+.jobsPageContainer {
+    padding: 20px 0 20px 50px;
+
+    .jobsMenu {
+        display: flex;
+    }
+
+    .menuContainer {
+        flex-basis: 100vw;
+        overflow-x: hidden;
+    }
+}

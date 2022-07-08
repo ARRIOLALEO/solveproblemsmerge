@@ -1,0 +1,17 @@
+.registerRecruiterContainer {
+    padding: 10px;
+    display: flex;
+    gap: 25px;
+    flex-direction: column;
+    align-items: center;
+
+    .formContainer {
+        padding: 10px;
+
+        .formGridContainer {
+            display: grid;
+            gap: 15px;
+            grid-template-columns: 1fr 1fr;
+        }
+    }
+}
